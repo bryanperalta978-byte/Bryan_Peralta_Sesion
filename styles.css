@@ -1,0 +1,146 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(135deg, #f4f7fb 0%, #dce8ff 100%);
+    color: #1d2a3a;
+}
+
+a {
+    color: #0b57d0;
+}
+
+.auth-layout,
+.dashboard {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 24px;
+}
+
+.card {
+    width: 100%;
+    max-width: 460px;
+    background: #ffffff;
+    border-radius: 20px;
+    padding: 32px;
+    box-shadow: 0 20px 50px rgba(18, 42, 76, 0.16);
+}
+
+.profile-card {
+    max-width: 760px;
+}
+
+h1 {
+    margin: 0 0 8px;
+    font-size: 2rem;
+}
+
+.subtitle {
+    margin: 0 0 24px;
+    color: #5b6b7f;
+}
+
+.form {
+    display: grid;
+    gap: 12px;
+}
+
+.form label {
+    font-weight: 600;
+}
+
+.form input {
+    width: 100%;
+    padding: 12px 14px;
+    border: 1px solid #ccd6e2;
+    border-radius: 12px;
+    font-size: 1rem;
+}
+
+.form button,
+.link-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 12px 18px;
+    border: none;
+    border-radius: 12px;
+    background: #0b57d0;
+    color: #fff;
+    text-decoration: none;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.link-button.danger {
+    background: #c62828;
+}
+
+.helper {
+    margin-top: 18px;
+    color: #5b6b7f;
+}
+
+.alert {
+    margin-bottom: 18px;
+    padding: 12px 14px;
+    border-radius: 12px;
+    font-weight: 600;
+}
+
+.alert.error {
+    background: #fdeaea;
+    color: #9f1d1d;
+}
+
+.alert.success {
+    background: #e8f6ec;
+    color: #166534;
+}
+
+.topbar {
+    display: flex;
+    gap: 16px;
+    align-items: flex-start;
+    justify-content: space-between;
+    margin-bottom: 24px;
+}
+
+.info-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 16px;
+    margin-bottom: 24px;
+}
+
+.info-box {
+    padding: 16px;
+    border-radius: 14px;
+    background: #f5f8ff;
+}
+
+.info-box span {
+    display: block;
+    margin-bottom: 6px;
+    color: #5b6b7f;
+}
+
+.actions {
+    margin-top: 20px;
+}
+
+@media (max-width: 640px) {
+    .card {
+        padding: 24px;
+    }
+
+    .topbar {
+        flex-direction: column;
+    }
+}
+

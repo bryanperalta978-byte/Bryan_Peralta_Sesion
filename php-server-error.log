@@ -1,0 +1,217 @@
+[Fri May 15 11:03:03 2026] PHP 8.2.12 Development Server (http://127.0.0.1:8000) started
+[Fri May 15 11:03:06 2026] 127.0.0.1:55358 Accepted
+[Fri May 15 11:03:06 2026] 127.0.0.1:55358 [200]: GET /index.php
+[Fri May 15 11:03:06 2026] 127.0.0.1:55358 Closing
+[Fri May 15 11:03:17 2026] 127.0.0.1:64739 Accepted
+[Fri May 15 11:03:17 2026] 127.0.0.1:64739 [200]: GET /index.php
+[Fri May 15 11:03:17 2026] 127.0.0.1:64739 Closing
+[Fri May 15 12:24:27 2026] 127.0.0.1:65203 Accepted
+[Fri May 15 12:24:27 2026] 127.0.0.1:65203 [200]: GET /index.php
+[Fri May 15 12:24:27 2026] 127.0.0.1:65203 Closing
+[Fri May 15 12:24:27 2026] 127.0.0.1:49417 Accepted
+[Fri May 15 12:24:27 2026] 127.0.0.1:58962 Accepted
+[Fri May 15 12:24:27 2026] 127.0.0.1:49417 [200]: GET /styles.css
+[Fri May 15 12:24:27 2026] 127.0.0.1:49417 Closing
+[Fri May 15 12:24:27 2026] 127.0.0.1:58962 [404]: GET /favicon.ico - No such file or directory
+[Fri May 15 12:24:27 2026] 127.0.0.1:58962 Closing
+[Fri May 15 12:24:36 2026] 127.0.0.1:53940 Accepted
+[Fri May 15 12:24:36 2026] 127.0.0.1:53940 [200]: GET /registro.php
+[Fri May 15 12:24:36 2026] 127.0.0.1:53940 Closing
+[Fri May 15 12:24:36 2026] 127.0.0.1:51438 Accepted
+[Fri May 15 12:24:36 2026] 127.0.0.1:51438 [200]: GET /styles.css
+[Fri May 15 12:24:36 2026] 127.0.0.1:51438 Closing
+[Fri May 15 12:25:52 2026] 127.0.0.1:57482 Accepted
+[Fri May 15 12:25:52 2026] 127.0.0.1:57482 [302]: POST /registro.php
+[Fri May 15 12:25:52 2026] 127.0.0.1:57482 Closing
+[Fri May 15 12:25:52 2026] 127.0.0.1:54083 Accepted
+[Fri May 15 12:25:52 2026] 127.0.0.1:54083 [200]: GET /index.php
+[Fri May 15 12:25:52 2026] 127.0.0.1:54083 Closing
+[Fri May 15 12:25:52 2026] 127.0.0.1:56270 Accepted
+[Fri May 15 12:25:52 2026] 127.0.0.1:56270 [200]: GET /styles.css
+[Fri May 15 12:25:52 2026] 127.0.0.1:56270 Closing
+[Fri May 15 12:26:27 2026] 127.0.0.1:57415 Accepted
+[Fri May 15 12:26:27 2026] 127.0.0.1:57415 [302]: POST /index.php
+[Fri May 15 12:26:27 2026] 127.0.0.1:57415 Closing
+[Fri May 15 12:26:27 2026] 127.0.0.1:54119 Accepted
+[Fri May 15 12:26:27 2026] 127.0.0.1:54119 [200]: GET /perfil.php
+[Fri May 15 12:26:27 2026] 127.0.0.1:54119 Closing
+[Fri May 15 12:26:27 2026] 127.0.0.1:61067 Accepted
+[Fri May 15 12:26:27 2026] 127.0.0.1:61067 [200]: GET /styles.css
+[Fri May 15 12:26:27 2026] 127.0.0.1:61067 Closing
+[Fri May 15 12:26:39 2026] 127.0.0.1:51284 Accepted
+[Fri May 15 12:26:39 2026] 127.0.0.1:51284 [200]: GET /cambiar_password.php
+[Fri May 15 12:26:39 2026] 127.0.0.1:51284 Closing
+[Fri May 15 12:26:39 2026] 127.0.0.1:60743 Accepted
+[Fri May 15 12:26:39 2026] 127.0.0.1:60743 [200]: GET /styles.css
+[Fri May 15 12:26:39 2026] 127.0.0.1:60743 Closing
+[Fri May 15 12:27:03 2026] 127.0.0.1:53041 Accepted
+[Fri May 15 12:27:04 2026] 127.0.0.1:53041 [200]: POST /cambiar_password.php
+[Fri May 15 12:27:04 2026] 127.0.0.1:53041 Closing
+[Fri May 15 12:27:04 2026] 127.0.0.1:56244 Accepted
+[Fri May 15 12:27:04 2026] 127.0.0.1:56244 [200]: GET /styles.css
+[Fri May 15 12:27:04 2026] 127.0.0.1:56244 Closing
+[Fri May 15 12:27:07 2026] 127.0.0.1:56384 Accepted
+[Fri May 15 12:27:07 2026] 127.0.0.1:56384 [200]: GET /perfil.php
+[Fri May 15 12:27:07 2026] 127.0.0.1:56384 Closing
+[Fri May 15 12:27:07 2026] 127.0.0.1:52185 Accepted
+[Fri May 15 12:27:07 2026] 127.0.0.1:52185 [200]: GET /styles.css
+[Fri May 15 12:27:07 2026] 127.0.0.1:52185 Closing
+[Fri May 15 17:31:48 2026] 127.0.0.1:56806 Accepted
+[Fri May 15 17:31:49 2026] 127.0.0.1:56806 [302]: GET /logout.php
+[Fri May 15 17:31:49 2026] 127.0.0.1:56806 Closing
+[Fri May 15 17:31:49 2026] 127.0.0.1:59177 Accepted
+[Fri May 15 17:31:49 2026] 127.0.0.1:59177 [200]: GET /index.php
+[Fri May 15 17:31:49 2026] 127.0.0.1:59177 Closing
+[Fri May 15 17:31:49 2026] 127.0.0.1:62982 Accepted
+[Fri May 15 17:31:49 2026] 127.0.0.1:62982 [200]: GET /styles.css
+[Fri May 15 17:31:49 2026] 127.0.0.1:62982 Closing
+[Fri May 15 17:40:00 2026] 127.0.0.1:57820 Accepted
+[Fri May 15 17:40:00 2026] 127.0.0.1:57820 [200]: GET /registro.php
+[Fri May 15 17:40:00 2026] 127.0.0.1:57820 Closing
+[Fri May 15 17:40:00 2026] 127.0.0.1:60411 Accepted
+[Fri May 15 17:40:00 2026] 127.0.0.1:60411 [200]: GET /styles.css
+[Fri May 15 17:40:00 2026] 127.0.0.1:60411 Closing
+[Fri May 15 17:40:18 2026] 127.0.0.1:59907 Accepted
+[Fri May 15 17:40:18 2026] 127.0.0.1:59907 [302]: POST /registro.php
+[Fri May 15 17:40:18 2026] 127.0.0.1:59907 Closing
+[Fri May 15 17:40:18 2026] 127.0.0.1:65278 Accepted
+[Fri May 15 17:40:18 2026] 127.0.0.1:65278 [200]: GET /index.php
+[Fri May 15 17:40:18 2026] 127.0.0.1:65278 Closing
+[Fri May 15 17:40:18 2026] 127.0.0.1:53574 Accepted
+[Fri May 15 17:40:18 2026] 127.0.0.1:53574 [200]: GET /styles.css
+[Fri May 15 17:40:18 2026] 127.0.0.1:53574 Closing
+[Fri May 15 17:40:44 2026] 127.0.0.1:63487 Accepted
+[Fri May 15 17:40:44 2026] 127.0.0.1:63487 [200]: POST /index.php
+[Fri May 15 17:40:44 2026] 127.0.0.1:63487 Closing
+[Fri May 15 17:40:44 2026] 127.0.0.1:49977 Accepted
+[Fri May 15 17:40:44 2026] 127.0.0.1:49977 [200]: GET /styles.css
+[Fri May 15 17:40:44 2026] 127.0.0.1:49977 Closing
+[Fri May 15 17:40:48 2026] 127.0.0.1:54840 Accepted
+[Fri May 15 17:40:48 2026] 127.0.0.1:54840 [200]: POST /index.php
+[Fri May 15 17:40:48 2026] 127.0.0.1:54840 Closing
+[Fri May 15 17:40:48 2026] 127.0.0.1:58516 Accepted
+[Fri May 15 17:40:48 2026] 127.0.0.1:58516 [200]: GET /styles.css
+[Fri May 15 17:40:48 2026] 127.0.0.1:58516 Closing
+[Fri May 15 17:40:58 2026] 127.0.0.1:56944 Accepted
+[Fri May 15 17:40:58 2026] 127.0.0.1:56944 [200]: POST /index.php
+[Fri May 15 17:40:58 2026] 127.0.0.1:56944 Closing
+[Fri May 15 17:40:58 2026] 127.0.0.1:57354 Accepted
+[Fri May 15 17:40:58 2026] 127.0.0.1:57354 [200]: GET /styles.css
+[Fri May 15 17:40:58 2026] 127.0.0.1:57354 Closing
+[Fri May 15 17:41:03 2026] 127.0.0.1:64311 Accepted
+[Fri May 15 17:41:03 2026] 127.0.0.1:58583 Accepted
+[Fri May 15 17:41:03 2026] 127.0.0.1:64311 [200]: POST /index.php
+[Fri May 15 17:41:03 2026] 127.0.0.1:64311 Closing
+[Fri May 15 17:41:03 2026] 127.0.0.1:58583 [200]: GET /styles.css
+[Fri May 15 17:41:03 2026] 127.0.0.1:58583 Closing
+[Fri May 15 17:41:27 2026] 127.0.0.1:64659 Accepted
+[Fri May 15 17:41:27 2026] 127.0.0.1:64659 [200]: POST /index.php
+[Fri May 15 17:41:27 2026] 127.0.0.1:64659 Closing
+[Fri May 15 17:41:27 2026] 127.0.0.1:56712 Accepted
+[Fri May 15 17:41:27 2026] 127.0.0.1:56712 [200]: GET /styles.css
+[Fri May 15 17:41:27 2026] 127.0.0.1:56712 Closing
+[Fri May 15 17:41:30 2026] 127.0.0.1:54300 Accepted
+[Fri May 15 17:41:30 2026] 127.0.0.1:54300 [200]: POST /index.php
+[Fri May 15 17:41:30 2026] 127.0.0.1:54300 Closing
+[Fri May 15 17:41:30 2026] 127.0.0.1:55751 Accepted
+[Fri May 15 17:41:30 2026] 127.0.0.1:55751 [200]: GET /styles.css
+[Fri May 15 17:41:30 2026] 127.0.0.1:55751 Closing
+[Fri May 15 17:41:41 2026] 127.0.0.1:61861 Accepted
+[Fri May 15 17:41:41 2026] 127.0.0.1:61861 [200]: GET /registro.php
+[Fri May 15 17:41:41 2026] 127.0.0.1:61861 Closing
+[Fri May 15 17:41:41 2026] 127.0.0.1:49369 Accepted
+[Fri May 15 17:41:41 2026] 127.0.0.1:49369 [200]: GET /styles.css
+[Fri May 15 17:41:41 2026] 127.0.0.1:49369 Closing
+[Fri May 15 17:42:01 2026] 127.0.0.1:61724 Accepted
+[Fri May 15 17:42:01 2026] 127.0.0.1:61724 [302]: POST /registro.php
+[Fri May 15 17:42:01 2026] 127.0.0.1:61724 Closing
+[Fri May 15 17:42:01 2026] 127.0.0.1:51909 Accepted
+[Fri May 15 17:42:01 2026] 127.0.0.1:51909 [200]: GET /index.php
+[Fri May 15 17:42:01 2026] 127.0.0.1:51909 Closing
+[Fri May 15 17:42:01 2026] 127.0.0.1:52737 Accepted
+[Fri May 15 17:42:01 2026] 127.0.0.1:52737 [200]: GET /styles.css
+[Fri May 15 17:42:01 2026] 127.0.0.1:52737 Closing
+[Fri May 15 17:42:11 2026] 127.0.0.1:53584 Accepted
+[Fri May 15 17:42:11 2026] 127.0.0.1:64636 Accepted
+[Fri May 15 17:42:11 2026] 127.0.0.1:53584 [200]: POST /index.php
+[Fri May 15 17:42:11 2026] 127.0.0.1:53584 Closing
+[Fri May 15 17:42:11 2026] 127.0.0.1:64636 [200]: GET /styles.css
+[Fri May 15 17:42:11 2026] 127.0.0.1:64636 Closing
+[Fri May 15 17:42:13 2026] 127.0.0.1:60926 Accepted
+[Fri May 15 17:42:13 2026] 127.0.0.1:60926 [200]: GET /registro.php
+[Fri May 15 17:42:13 2026] 127.0.0.1:60926 Closing
+[Fri May 15 17:42:13 2026] 127.0.0.1:58740 Accepted
+[Fri May 15 17:42:13 2026] 127.0.0.1:58740 [200]: GET /styles.css
+[Fri May 15 17:42:13 2026] 127.0.0.1:58740 Closing
+[Fri May 15 17:42:45 2026] 127.0.0.1:64305 Accepted
+[Fri May 15 17:42:45 2026] 127.0.0.1:64305 [302]: POST /registro.php
+[Fri May 15 17:42:45 2026] 127.0.0.1:64305 Closing
+[Fri May 15 17:42:45 2026] 127.0.0.1:57168 Accepted
+[Fri May 15 17:42:45 2026] 127.0.0.1:57168 [200]: GET /index.php
+[Fri May 15 17:42:45 2026] 127.0.0.1:57168 Closing
+[Fri May 15 17:42:45 2026] 127.0.0.1:53166 Accepted
+[Fri May 15 17:42:45 2026] 127.0.0.1:53166 [200]: GET /styles.css
+[Fri May 15 17:42:45 2026] 127.0.0.1:53166 Closing
+[Fri May 15 17:43:09 2026] 127.0.0.1:57382 Accepted
+[Fri May 15 17:43:09 2026] 127.0.0.1:57382 [200]: POST /index.php
+[Fri May 15 17:43:09 2026] 127.0.0.1:57382 Closing
+[Fri May 15 17:43:09 2026] 127.0.0.1:50461 Accepted
+[Fri May 15 17:43:09 2026] 127.0.0.1:50461 [200]: GET /styles.css
+[Fri May 15 17:43:09 2026] 127.0.0.1:50461 Closing
+[Fri May 15 17:43:14 2026] 127.0.0.1:60251 Accepted
+[Fri May 15 17:43:14 2026] 127.0.0.1:60251 [200]: POST /index.php
+[Fri May 15 17:43:14 2026] 127.0.0.1:60251 Closing
+[Fri May 15 17:43:14 2026] 127.0.0.1:60928 Accepted
+[Fri May 15 17:43:14 2026] 127.0.0.1:60928 [200]: GET /styles.css
+[Fri May 15 17:43:14 2026] 127.0.0.1:60928 Closing
+[Fri May 15 17:43:31 2026] 127.0.0.1:56106 Accepted
+[Fri May 15 17:43:31 2026] 127.0.0.1:56106 [200]: GET /styles.css
+[Fri May 15 17:43:31 2026] 127.0.0.1:56106 Closing
+[Fri May 15 17:43:31 2026] 127.0.0.1:58032 Accepted
+[Fri May 15 17:43:31 2026] 127.0.0.1:58032 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Fri May 15 17:43:31 2026] 127.0.0.1:58032 Closing
+[Fri May 15 17:45:22 2026] 127.0.0.1:50519 Accepted
+[Fri May 15 17:45:22 2026] 127.0.0.1:50519 [302]: POST /index.php
+[Fri May 15 17:45:22 2026] 127.0.0.1:50519 Closing
+[Fri May 15 17:45:22 2026] 127.0.0.1:55622 Accepted
+[Fri May 15 17:45:22 2026] 127.0.0.1:55622 [200]: GET /perfil.php
+[Fri May 15 17:45:22 2026] 127.0.0.1:55622 Closing
+[Fri May 15 17:45:22 2026] 127.0.0.1:50485 Accepted
+[Fri May 15 17:45:22 2026] 127.0.0.1:50485 [200]: GET /styles.css
+[Fri May 15 17:45:22 2026] 127.0.0.1:50485 Closing
+[Fri May 15 17:45:31 2026] 127.0.0.1:56180 Accepted
+[Fri May 15 17:45:31 2026] 127.0.0.1:56180 [200]: GET /cambiar_password.php
+[Fri May 15 17:45:31 2026] 127.0.0.1:56180 Closing
+[Fri May 15 17:45:31 2026] 127.0.0.1:57430 Accepted
+[Fri May 15 17:45:31 2026] 127.0.0.1:57430 [200]: GET /styles.css
+[Fri May 15 17:45:31 2026] 127.0.0.1:57430 Closing
+[Fri May 15 17:45:48 2026] 127.0.0.1:49976 Accepted
+[Fri May 15 17:45:48 2026] 127.0.0.1:49976 [200]: POST /cambiar_password.php
+[Fri May 15 17:45:48 2026] 127.0.0.1:49976 Closing
+[Fri May 15 17:45:48 2026] 127.0.0.1:58811 Accepted
+[Fri May 15 17:45:48 2026] 127.0.0.1:58811 [200]: GET /styles.css
+[Fri May 15 17:45:48 2026] 127.0.0.1:58811 Closing
+[Fri May 15 17:45:58 2026] 127.0.0.1:63074 Accepted
+[Fri May 15 17:45:59 2026] 127.0.0.1:63074 [200]: GET /perfil.php
+[Fri May 15 17:45:59 2026] 127.0.0.1:63074 Closing
+[Fri May 15 17:45:59 2026] 127.0.0.1:63961 Accepted
+[Fri May 15 17:45:59 2026] 127.0.0.1:63961 [200]: GET /styles.css
+[Fri May 15 17:45:59 2026] 127.0.0.1:63961 Closing
+[Fri May 15 17:46:01 2026] 127.0.0.1:61233 Accepted
+[Fri May 15 17:46:01 2026] 127.0.0.1:61233 [302]: GET /logout.php
+[Fri May 15 17:46:01 2026] 127.0.0.1:61233 Closing
+[Fri May 15 17:46:01 2026] 127.0.0.1:65469 Accepted
+[Fri May 15 17:46:01 2026] 127.0.0.1:65469 [200]: GET /index.php
+[Fri May 15 17:46:01 2026] 127.0.0.1:65469 Closing
+[Fri May 15 17:46:01 2026] 127.0.0.1:58311 Accepted
+[Fri May 15 17:46:01 2026] 127.0.0.1:58311 [200]: GET /styles.css
+[Fri May 15 17:46:01 2026] 127.0.0.1:58311 Closing
+[Fri May 15 17:46:18 2026] 127.0.0.1:53479 Accepted
+[Fri May 15 17:46:18 2026] 127.0.0.1:53479 [302]: POST /index.php
+[Fri May 15 17:46:18 2026] 127.0.0.1:53479 Closing
+[Fri May 15 17:46:18 2026] 127.0.0.1:52929 Accepted
+[Fri May 15 17:46:18 2026] 127.0.0.1:52929 [200]: GET /perfil.php
+[Fri May 15 17:46:18 2026] 127.0.0.1:52929 Closing
+[Fri May 15 17:46:18 2026] 127.0.0.1:62407 Accepted
+[Fri May 15 17:46:18 2026] 127.0.0.1:62407 [200]: GET /styles.css
+[Fri May 15 17:46:18 2026] 127.0.0.1:62407 Closing
